@@ -1,4 +1,4 @@
-module Part3 exposing (..)
+module Part3.Part3 exposing (..)
 
 import Html exposing (..)
 import Html.Events exposing (..)

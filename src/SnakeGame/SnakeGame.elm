@@ -1,4 +1,4 @@
-module SnakeGame exposing (..)
+module SnakeGame.SnakeGame exposing (..)
 
 --import Html.App exposing (program)
 import Browser

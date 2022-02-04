@@ -1,4 +1,4 @@
-module AnalogClock exposing (..)
+module Clock.AnalogClock exposing (..)
 
 import Html exposing (..)
 import Html.Events exposing (..)
